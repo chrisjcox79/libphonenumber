@@ -68,7 +68,7 @@
     <dependency>
       <groupId>com.googlecode.libphonenumber</groupId>
       <artifactId>prefixmapper</artifactId>
-      <version>2.152-SNAPSHOT</version>
+      <version>2.152</version>
     </dependency>
   </dependencies>
 
